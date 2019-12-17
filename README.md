@@ -1,2 +1,1 @@
-test
 # resume-gen-pipeline
