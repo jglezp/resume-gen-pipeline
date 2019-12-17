@@ -1,0 +1,93 @@
+Jean-Avit Promis
+============
+Email: docker@katagena.com
+Tel: +33602030405
+Web: https://www.katagena.com/
+
+**Web developer with 12+ years industry experience** specializing in ecommerce and system architecture. 35 years old.
+
+## SKILLS
+
+  - Framework: Symfony2 jQuery Zend Struts AngularJS 
+  - System: Docker Ansible Linux AWS Continuous Integration Debian 
+  - Softwares: Magento Jahia Akeneo 
+  - Langages: PHP Javascript JAVA .net 
+
+## EMPLOYMENT
+
+### *Member*, Coop'Alpha (2017-09 — Present)
+
+Devops ecommerce magento2 working on AWS infrastructure with Ansible.
+
+### *Co-founder*, Ninja Labs (2016-02 — 2017-09)
+
+System architect of a Symfony project with a Docker Swarm cluster, continuous integration with unit and loading testing.
+  - Architecture as code with Ansible
+
+### *Technical lead*, [Smile Sud-Ouest](http://www.smile.fr/) (2010-09 — Present)
+
+Worked as magento developer and technical lead for new e-commerce project or for support. As project manager I was in charge of the communication between Smile and clients, I planned deliveries, developments, managed dev team, advised clients. As developer I designed store locator, renting system, SEO plan, graphic upgrade, Back Office extension, etc... Technical environment: Magento, Solr, ElasticSearch, MongoDB, Percona, Redis, load-balanced servers. Accounts: Krys, Le comptoir santé (Cdiscount), Cultura, Chantelle, Chantelle US, Comtesse du Barry, Cityvision, Vertsloisirs, Darjeeling, etc...
+  - Managed a 5-person development team
+  - Worked in one of the top french e-commerce company (Cdiscount)
+  - Designed new features on a 10+ millions products magento
+
+### *Developer and Technical manager*, [Smile Paris](http://www.smile.fr/) (2007-03 — 2010-09)
+
+Worked as Java and Dotnet developer to design corporate websites. I designed new screens, created contribution workflows, data feeds import, etc... Technical environment: Jahia, J2EE, LDAP, SSO. Accounts: Notaires de France (Real estate), Gallimard (Book editor), Bureau Veritas (Certification), BNP (Banking), AG2R (Insurance), Sanef (Highway), Aprionis (Pension fund), Lyonnaise des eaux (Water supply), etc...
+  - Developped an live auction for real estate.
+  - First technical lead on a project.
+
+### *Developer*, [Business en ligne](http://www.businessenligne.fr/) (2006-04 — 2006-08)
+
+PHP developer. Created an online training platform.
+
+### *Developer*, [Butler Gallery](http://www.butlergallery.com/) (2005-07 — 2005-08)
+
+PHP developer. Created a CMS like website for an art gallery in Ireland.
+  - Helped setting up new Exhibitions.
+
+
+
+
+## EDUCATION
+
+### ESIGETEL, École supérieure d'ingénieurs en informatique et génie des télécommunications (2004-11 — 2007-02)
+
+
+
+### University of Marne la vallée (2004-10 — 2005-06)
+
+
+
+### Lycée Jean Dautet, La Rochelle (2001-09 — 2004-06)
+
+
+
+### Lycée Jean Macé (1998-09 — 2001-06)
+
+
+
+
+
+
+
+
+
+
+
+
+## INTERESTS
+
+- TRAVEL: Japan Sweden 
+
+- SUSTAINABLE DEVELOPMENT/PERMACULTURE
+
+- RUGBY
+
+- LIVE CONCERT
+
+- ARCHITECTURE
+
+- MUSEUM/ART
+
+
