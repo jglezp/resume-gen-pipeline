@@ -1,169 +1,113 @@
 basics:
-  name: 'Jean-Avit Promis'
-  label: 'PHP DEVELOPER & ECOMMERCE SPECIALIST'
-  summary: '**Web developer with 12+ years industry experience** specializing in ecommerce and system architecture. 35 years old.'
-  website: 'https://www.katagena.com/'
-  phone: '+33602030405'
-  email: docker@katagena.com
-  picture: 'https://raw.githubusercontent.com/nouchka/japromis.katagena.com/master/picture.jpg'
+  name: 'Josep González Preto'
+  label: 'Cloud Sysadmin'
+  picture: ""
+  email: jgonzalezpreto@gmail.com
+  phone: '(+34) 659752720'
+  website: 'http://johndoe.com'
+  summary: test
   location:
-    address: "Jean-Avit Promis\n25 Rue Delphin Loche"
-    postalCode: '24100'
-    city: Bergerac
-    countryCode: FR
-    region: Dordogne
+    postalCode: '17300'
+    city: Blanes
+    countryCode: ES
+    region: Cataluña
   profiles:
     -
-      network: GitHub
-      username: nouchka
-      url: 'https://github.com/nouchka'
-      iconClass: 'fa fa-github-square'
-    -
-      network: Linkedin
-      username: japromis
-      url: 'https://fr.linkedin.com/in/japromis'
-      iconClass: 'fa fa-linkedin-square'
+      network: LinkedIn
+      username: josepgonzpre
+      url: 'https://www.linkedin.com/in/josepgonzpre/'
 work:
   -
-    company: 'Coop''Alpha'
-    position: Member
-    startDate: 2017-09
-    endDate: current
-    summary: 'Devops ecommerce magento2 working on AWS infrastructure with Ansible.'
-    highlights: []
-  -
-    company: 'Ninja Labs'
-    position: Co-founder
-    startDate: 2016-02
-    endDate: 2017-09
-    summary: 'System architect of a Symfony project with a Docker Swarm cluster, continuous integration with unit and loading testing.'
+    company: Ackstorm
+    position: 'Cloud Sysadmin'
+    website: 'https://ackstorm.com'
+    startDate: '2019-03-20'
+    summary: 'En ackstorm desarrollamos soluciones cloud integrales, desde la parte más estratégica a la ejecución. Somos partners de Google Cloud Platform y AWS.'
     highlights:
-      - 'Architecture as code with Ansible'
+      - 'Started the company'
   -
-    company: 'Smile Sud-Ouest'
-    website: 'http://www.smile.fr/'
-    position: 'Technical lead'
-    startDate: 2010-09
-    summary: 'Worked as magento developer and technical lead for new e-commerce project or for support. As project manager I was in charge of the communication between Smile and clients, I planned deliveries, developments, managed dev team, advised clients. As developer I designed store locator, renting system, SEO plan, graphic upgrade, Back Office extension, etc... Technical environment: Magento, Solr, ElasticSearch, MongoDB, Percona, Redis, load-balanced servers. Accounts: Krys, Le comptoir santé (Cdiscount), Cultura, Chantelle, Chantelle US, Comtesse du Barry, Cityvision, Vertsloisirs, Darjeeling, etc...'
+    company: Hmobile
+    position: SysOps
+    website: 'https://www.hmobile.es'
+    startDate: '2019-03-19'
+    endDate: '2019-02-01'
+    summary: 'HMobile software operaciones de Hotel conecta a los empleados y coordina sus actividades, mejorando su productividad y la satisfacción de los huéspedes.'
     highlights:
-      - 'Managed a 5-person development team'
-      - 'Worked in one of the top french e-commerce company (Cdiscount)'
-      - 'Designed new features on a 10+ millions products magento'
+      - 'Started the company'
   -
-    company: 'Smile Paris'
-    website: 'http://www.smile.fr/'
-    position: 'Developer and Technical manager'
-    startDate: 2007-03
-    endDate: 2010-09
-    summary: 'Worked as Java and Dotnet developer to design corporate websites. I designed new screens, created contribution workflows, data feeds import, etc... Technical environment: Jahia, J2EE, LDAP, SSO. Accounts: Notaires de France (Real estate), Gallimard (Book editor), Bureau Veritas (Certification), BNP (Banking), AG2R (Insurance), Sanef (Highway), Aprionis (Pension fund), Lyonnaise des eaux (Water supply), etc...'
+    company: Hmobile
+    position: 'Technical Support'
+    website: 'https://www.hmobile.es'
+    startDate: '2018-06-18'
+    endDate: '2019-03-19'
+    summary: 'HMobile software operaciones de Hotel conecta a los empleados y coordina sus actividades, mejorando su productividad y la satisfacción de los huéspedes.'
     highlights:
-      - 'Developped an live auction for real estate.'
-      - 'First technical lead on a project.'
+      - 'Started the company'
+volunteer:
   -
-    company: 'Business en ligne'
-    website: 'http://www.businessenligne.fr/'
-    position: Developer
-    startDate: 2006-04
-    endDate: 2006-08
-    summary: 'PHP developer. Created an online training platform.'
-  -
-    company: 'Butler Gallery'
-    website: 'http://www.butlergallery.com/'
-    position: Developer
-    startDate: 2005-07
-    endDate: 2005-08
-    summary: 'PHP developer. Created a CMS like website for an art gallery in Ireland.'
+    organization: Organization
+    position: Volunteer
+    website: 'http://organization.com/'
+    startDate: '2012-01-01'
+    endDate: '2013-01-01'
+    summary: Description...
     highlights:
-      - 'Helped setting up new Exhibitions.'
+      - 'Awarded ''Volunteer of the Month'''
 education:
   -
-    institution: 'ESIGETEL, École supérieure d''ingénieurs en informatique et génie des télécommunications'
-    area: SIR
-    startDate: 2004-11
-    endDate: 2007-02
-    studyType: 'Engineer school'
+    institution: 'Computer Network Systems Management'
+    area: 'Foundation Degree'
+    studyType: 'Sa Palomera (Blanes)'
+    startDate: '2016-10-01'
+    endDate: '2018-06-20'
+    gpa: '9.3'
+    courses:
+      - 'DB1101 - Basic SQL'
   -
-    institution: 'University of Marne la vallée'
-    area: Mathematics
-    startDate: 2004-10
-    endDate: 2005-06
-    studyType: University
+    institution: 'Production of Audivisual Projects and Shows'
+    area: 'Foundation Degree'
+    studyType: 'Juniper Serra (Palma de Mallorca)'
+    startDate: '2016-10-01'
+    endDate: '2018-06-20'
+    gpa: '8.29'
+awards:
   -
-    institution: 'Lycée Jean Dautet, La Rochelle'
-    area: 'MPSI / PSI'
-    startDate: 2001-09
-    endDate: 2004-06
-    studyType: CPGE
+    title: 'Graduated with honors'
+    date: '2018-06-30'
+    awarder: 'Sa Palomera'
+    summary: 'There is no spoon.'
+publications:
   -
-    institution: 'Lycée Jean Macé'
-    area: Scientific
-    startDate: 1998-09
-    endDate: 2001-06
-    studyType: 'High school'
+    name: Publication
+    publisher: Company
+    releaseDate: '2014-10-01'
+    website: 'http://publication.com'
+    summary: Description...
 skills:
   -
-    name: Framework
+    name: 'Web Development'
+    level: Master
     keywords:
-      - Symfony2
-      - jQuery
-      - Zend
-      - Struts
-      - AngularJS
-  -
-    name: System
-    keywords:
-      - Docker
-      - Ansible
-      - Linux
-      - AWS
-      - 'Continuous Integration'
-      - Debian
-  -
-    name: Softwares
-    keywords:
-      - Magento
-      - Jahia
-      - Akeneo
-  -
-    name: Langages
-    keywords:
-      - PHP
+      - HTML
+      - CSS
       - Javascript
-      - JAVA
-      - .net
-interests:
-  -
-    name: Travel
-    summary: ""
-    keywords:
-      - Japan
-      - Sweden
-  -
-    name: 'Sustainable development/Permaculture'
-  -
-    name: Rugby
-    summary: ""
-  -
-    name: 'Live concert'
-  -
-    name: Architecture
-  -
-    name: Museum/Art
 languages:
   -
-    language: French
-    level: Native
-    fluency: Native
+    language: Spanish
+    fluency: 'Native speaker'
+  -
+    language: Catalonian
+    fluency: 'Native speaker'
   -
     language: English
-    level: 'TOEIC 915'
-    fluency: 'TOEIC 915'
+    fluency: 'Good speaking and reading'
+interests:
   -
-    language: German
-    level: Moderate
-    fluency: Moderate
-    years: 7
+    name: Wildlife
+    keywords:
+      - Ferrets
+      - Unicorns
+references:
   -
-    language: Swedish
-    level: Beginner
-    fluency: Beginner
+    name: 'Jane Doe'
+    reference: Reference...
