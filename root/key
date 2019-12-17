@@ -1,0 +1,5 @@
+To generate this key use:
+
+$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+One for you, the other for Github
