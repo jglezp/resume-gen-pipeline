@@ -1,9 +1,9 @@
 {
   "name": "Josep González Preto",
   "info": {
-    "label": "Cloud Sysadmin",
-    "image": "",
-    "brief": "test2"
+    "label": "Cloud Operations",
+    "image": "images/buena2.png",
+    "brief": "As a SysAdmin, I focused my professional career to work with Public Cloud (specially AWS).\nSince I discovered the Cloud, I knew that this was what I wanted to learn and dedicate professionally.\nEvery day, arrive new technologies and improvements that enhance the Cloud, such as Terraform and Kubernetes, which I love to learn and use in my day to day.\nI am originally from Menorca. And I have had many work experiences from other fields (specially tourism/restauration) that make me grow as a person that knows what he wants. However, since that I could study Systems Administration, I found in this job my true vocation and knew that this was what I wanted to dedicate professionally. I am really motivated to keep growing and learning.\nOne of my personal interests are videogames, they have been with me my whole life, and I really enjoy playing a good story to evade myself from the world; I also like to play boardgames, it's a hobby that I like to share with friends and with my girlfriend; I love pets, I have 3 cats and a dog; TV series (I completed Netflix); Cinema, specially Marvel Superheroes (not DC, well... I enjoyed the Batman trilogy of Christopher Nolan); and that is a bit of me.\nI consider myself a responsible person, proactive and I enjoy teamwork, especially with good and professional people."
   },
   "contact": {
     "email": "jgonzalezpreto@gmail.com",
@@ -23,39 +23,28 @@
   "employment": {
     "history": [
       {
-        "position": "Cloud Sysadmin",
+        "position": "Cloud Operations",
         "employer": "Ackstorm",
-        "summary": "En ackstorm desarrollamos soluciones cloud integrales, desde la parte más estratégica a la ejecución. Somos partners de Google Cloud Platform y AWS.",
+        "summary": "Cloud Managed Services: resolution of customer requests, incidents, changes, improvements and alerts.\nCloud infrastructure (Google Cloud Platform and Amazon Web Services) and legacy Datacenter.\nMonitoring: Nagios, Grafana and Telegraf.\nOpenSource Services and Techs: each client has different services based on their needs (Kubernetes, Dockers, Apache, Nginx, PHP, Mysql, Java, Redis, Memcached, Traefik, Haproxy, etc).\nCI/CD: Jenkins, Gitlab\nScripting: Bash.\nSome casual PHP programming and SQL queries.\nITIL methodology.",
         "current": true,
         "start": "2019-03-20",
         "url": "https://ackstorm.com",
         "keywords": [],
         "highlights": [
-          "Started the company"
+          "Started as a Cloud Operations level 1, and promoted to Cloud Operations level 2",
+          "Certifications:\n- AWS Certified SysOps Administrator - Associate\n- AWS Certified Cloud Practitioner\n- ITIL Foundation v4"
         ]
       },
       {
         "position": "SysOps",
         "employer": "Hmobile",
-        "summary": "HMobile software operaciones de Hotel conecta a los empleados y coordina sus actividades, mejorando su productividad y la satisfacción de los huéspedes.",
-        "start": "2019-03-19",
+        "summary": "Operations and Helpdesk level 2 (Zendesk): incident analysis (configurations, logs), troubleshooting.\nLevel expert with main softwares.\nProduct implementation: customer infrastructure analysis, drivers configuration.\nOperation tasks: new features, integrations with third parties\nSystems: needs analysis, infrastructure improvement.\nMaintenance and monitoring.\nScripting: Batch, Powershell, Google Apps Script, SQL.\nTesting new versions.",
+        "start": "2018-06-18",
         "end": "2019-02-01",
         "url": "https://www.hmobile.es",
         "keywords": [],
         "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "position": "Technical Support",
-        "employer": "Hmobile",
-        "summary": "HMobile software operaciones de Hotel conecta a los empleados y coordina sus actividades, mejorando su productividad y la satisfacción de los huéspedes.",
-        "start": "2018-06-18",
-        "end": "2019-03-19",
-        "url": "https://www.hmobile.es",
-        "keywords": [],
-        "highlights": [
-          "Started the company"
+          "Started as a Helpdesk level 1, and promoted to Operations and Helpdesk level 2"
         ]
       }
     ]
@@ -68,9 +57,6 @@
         "start": "2016-10-01",
         "end": "2018-06-20",
         "grade": "9.3",
-        "curriculum": [
-          "DB1101 - Basic SQL"
-        ],
         "summary": "",
         "area": "Foundation Degree",
         "studyType": "Sa Palomera (Blanes)"
@@ -86,50 +72,30 @@
       }
     ]
   },
-  "service": {
-    "history": [
-      {
-        "type": "volunteer",
-        "position": "Volunteer",
-        "organization": "Organization",
-        "start": "2012-01-01",
-        "end": "2013-01-01",
-        "url": "http://organization.com/",
-        "summary": "Description...",
-        "highlights": [
-          "Awarded 'Volunteer of the Month'"
-        ]
-      }
-    ]
-  },
   "skills": {
     "sets": [
       {
-        "name": "Web Development",
-        "level": "Master",
+        "name": "SysAdmin",
+        "level": "Expert",
         "skills": [
-          "HTML",
-          "CSS",
-          "Javascript"
+          "Linux",
+          "..."
         ]
       }
     ]
   },
-  "writing": [
-    {
-      "title": "Publication",
-      "publisher": "Company",
-      "url": "http://publication.com",
-      "date": "2014-10-01",
-      "summary": "Description..."
-    }
-  ],
   "recognition": [
+    {
+      "title": "AWS Certified SysOps Administrator - Associate",
+      "date": "2020-03-05",
+      "from": "Amazon Web Services (AWS)",
+      "summary": "F86VEM9CEJB4Q79C"
+    },
     {
       "title": "Graduated with honors",
       "date": "2018-06-30",
       "from": "Sa Palomera",
-      "summary": "There is no spoon."
+      "summary": "Achieved with an average score of 9'3."
     }
   ],
   "social": [
@@ -147,14 +113,6 @@
         "Ferrets",
         "Unicorns"
       ]
-    }
-  ],
-  "testimonials": [
-    {
-      "name": "Jane Doe",
-      "flavor": "professional",
-      "quote": "Reference...",
-      "private": false
     }
   ],
   "languages": [
