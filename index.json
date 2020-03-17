@@ -3,7 +3,7 @@
   "info": {
     "label": "Cloud Operations",
     "image": "images/buena2.png",
-    "brief": "As a SysAdmin, I focused my professional career to work with Public Cloud (specially AWS).  Since I discovered the Cloud, I knew that this was what I wanted to learn and dedicate professionally.  Every day, arrive new technologies and improvements that enhance the Cloud, such as Terraform and Kubernetes, which I love to learn and use in my day to day.  I am originally from Menorca. And I have had many work experiences from other fields (specially tourism/restauration) that make me grow as a person that knows what he wants. However, since that I could study Systems Administration, I found in this job my true vocation and knew that this was what I wanted to dedicate professionally. I am really motivated to keep growing and learning.  One of my personal interests are videogames, they have been with me my whole life, and I really enjoy playing a good story to evade myself from the world; I also like to play boardgames, it's a hobby that I like to share with friends and with my girlfriend; I love pets, I have 3 cats and a dog; TV series (I completed Netflix); Cinema, specially Marvel Superheroes (not DC, well... I enjoyed the Batman trilogy of Christopher Nolan); and that is a bit of me.  I consider myself a responsible person, proactive and I enjoy teamwork, especially with good and professional people."
+    "brief": "As a SysAdmin, I focused my professional career to work with Public Cloud (specially AWS).<br />Since I discovered the Cloud, I knew that this was what I wanted to learn and dedicate professionally.<br />Every day, arrive new technologies and improvements that enhance the Cloud, such as Terraform and Kubernetes, which I love to learn and use in my day to day.<br />I am originally from Menorca. And I have had many work experiences from other fields (specially tourism/restauration) that make me grow as a person that knows what he wants. However, since that I could study Systems Administration, I found in this job my true vocation and knew that this was what I wanted to dedicate professionally. I am really motivated to keep growing and learning.<br />One of my personal interests are videogames, they have been with me my whole life, and I really enjoy playing a good story to evade myself from the world; I also like to play boardgames, it's a hobby that I like to share with friends and with my girlfriend; I love pets, I have 3 cats and a dog; TV series (I completed Netflix); Cinema, specially Marvel Superheroes (not DC, well... I enjoyed the Batman trilogy of Christopher Nolan); and that is a bit of me.<br />I consider myself a responsible person, proactive and I enjoy teamwork, especially with good and professional people."
   },
   "contact": {
     "email": "jgonzalezpreto@gmail.com",
@@ -25,20 +25,20 @@
       {
         "position": "Cloud Operations",
         "employer": "Ackstorm",
-        "summary": "Cloud Managed Services: resolution of customer requests, incidents, changes, improvements and alerts.  Cloud infrastructure (Google Cloud Platform and Amazon Web Services) and legacy Datacenter.  Monitoring: Nagios, Grafana and Telegraf.  OpenSource Services and Techs: each client has different services based on their needs (Kubernetes, Dockers, Apache, Nginx, PHP, Mysql, Java, Redis, Memcached, Traefik, Haproxy, etc).  CI/CD: Jenkins, Gitlab  Scripting: Bash.  Some casual PHP programming and SQL queries.  ITIL methodology.",
+        "summary": "Cloud Managed Services: resolution of customer requests, incidents, changes, improvements and alerts.<br />Cloud infrastructure (Google Cloud Platform and Amazon Web Services) and legacy Datacenter.<br />Monitoring: Nagios, Grafana and Telegraf.<br />OpenSource Services and Techs: each client has different services based on their needs (Kubernetes, Dockers, Apache, Nginx, PHP, Mysql, Java, Redis, Memcached, Traefik, Haproxy, etc).<br />CI/CD: Jenkins, Gitlab<br />Scripting: Bash.<br />Some casual PHP programming and SQL queries.<br />ITIL methodology.",
         "current": true,
         "start": "2019-03-20",
         "url": "https://ackstorm.com",
         "keywords": [],
         "highlights": [
           "Started as a Cloud Operations level 1, and promoted to Cloud Operations level 2",
-          "Certifications:  - AWS Certified SysOps Administrator - Associate  - AWS Certified Cloud Practitioner  - ITIL Foundation v4"
+          "Certifications:<br />- AWS Certified SysOps Administrator - Associate<br />- AWS Certified Cloud Practitioner<br />- ITIL Foundation v4"
         ]
       },
       {
         "position": "SysOps",
         "employer": "Hmobile",
-        "summary": "Operations and Helpdesk level 2 (Zendesk): incident analysis (configurations, logs), troubleshooting.  Level expert with main softwares.  Product implementation: customer infrastructure analysis, drivers configuration.  Operation tasks: new features, integrations with third parties  Systems: needs analysis, infrastructure improvement.  Maintenance and monitoring.  Scripting: Batch, Powershell, Google Apps Script, SQL.  Testing new versions.",
+        "summary": "Operations and Helpdesk level 2 (Zendesk): incident analysis (configurations, logs), troubleshooting.<br />Level expert with main softwares.<br />Product implementation: customer infrastructure analysis, drivers configuration.<br />Operation tasks: new features, integrations with third parties<br />Systems: needs analysis, infrastructure improvement.<br />Maintenance and monitoring.<br />Scripting: Batch, Powershell, Google Apps Script, SQL.<br />Testing new versions.",
         "start": "2018-06-18",
         "end": "2019-02-01",
         "url": "https://www.hmobile.es",
