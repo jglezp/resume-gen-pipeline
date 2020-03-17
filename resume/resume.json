@@ -71,12 +71,11 @@
     "summary": "Achieved with an average score of 9'3."
   }],
   "skills": [{
-    "name": "Web Development",
-    "level": "Master",
+    "name": "SysAdmin",
+    "level": "Expert",
     "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
+      "Linux",
+      "..."
     ]
   }],
   "languages": [{
