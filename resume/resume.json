@@ -6,7 +6,7 @@
     "email": "jgonzalezpreto@gmail.com",
     "phone": "(+34) 659752720",
     "website": "https://github.com/jglezp",
-    "summary": "As a SysAdmin, I focused my professional career to work with Public Cloud (specially AWS).\nSince I discovered the Cloud, I knew that this was what I wanted to learn and dedicate professionally.\nEvery day, arrive new technologies and improvements that enhance the Cloud, such as Terraform and Kubernetes, which I love to learn and use in my day to day.\nI am originally from Menorca. And I have had many work experiences from other fields (specially tourism/restauration) that make me grow as a person that knows what he wants. However, since that I could study Systems Administration, I found in this job my true vocation and knew that this was what I wanted to dedicate professionally. I am really motivated to keep growing and learning.\nOne of my personal interests are videogames, they have been with me my whole life, and I really enjoy playing a good story to evade myself from the world; I also like to play boardgames, it's a hobby that I like to share with friends and with my girlfriend; I love pets, I have 3 cats and a dog; TV series (I completed Netflix); Cinema, specially Marvel Superheroes (not DC, well... I enjoyed the Batman trilogy of Christopher Nolan); and that is a bit of me.\nI consider myself a responsible person, proactive and I enjoy teamwork, especially with good and professional people.",
+    "summary": "As a SysAdmin, I focused my professional career to work with Public Cloud (specially AWS).  Since I discovered the Cloud, I knew that this was what I wanted to learn and dedicate professionally.  Every day, arrive new technologies and improvements that enhance the Cloud, such as Terraform and Kubernetes, which I love to learn and use in my day to day.  I am originally from Menorca. And I have had many work experiences from other fields (specially tourism/restauration) that make me grow as a person that knows what he wants. However, since that I could study Systems Administration, I found in this job my true vocation and knew that this was what I wanted to dedicate professionally. I am really motivated to keep growing and learning.  One of my personal interests are videogames, they have been with me my whole life, and I really enjoy playing a good story to evade myself from the world; I also like to play boardgames, it's a hobby that I like to share with friends and with my girlfriend; I love pets, I have 3 cats and a dog; TV series (I completed Netflix); Cinema, specially Marvel Superheroes (not DC, well... I enjoyed the Batman trilogy of Christopher Nolan); and that is a bit of me.  I consider myself a responsible person, proactive and I enjoy teamwork, especially with good and professional people.",
     "location": {
       "postalCode": "17300",
       "city": "Blanes",
@@ -24,10 +24,10 @@
     "position": "Cloud Operations",
     "website": "https://ackstorm.com",
     "startDate": "2019-03-20",
-    "summary": "Cloud Managed Services: resolution of customer requests, incidents, changes, improvements and alerts.\nCloud infrastructure (Google Cloud Platform and Amazon Web Services) and legacy Datacenter.\nMonitoring: Nagios, Grafana and Telegraf.\nOpenSource Services and Techs: each client has different services based on their needs (Kubernetes, Dockers, Apache, Nginx, PHP, Mysql, Java, Redis, Memcached, Traefik, Haproxy, etc).\nCI/CD: Jenkins, Gitlab\nScripting: Bash.\nSome casual PHP programming and SQL queries.\nITIL methodology.",
+    "summary": "Cloud Managed Services: resolution of customer requests, incidents, changes, improvements and alerts.  Cloud infrastructure (Google Cloud Platform and Amazon Web Services) and legacy Datacenter.  Monitoring: Nagios, Grafana and Telegraf.  OpenSource Services and Techs: each client has different services based on their needs (Kubernetes, Dockers, Apache, Nginx, PHP, Mysql, Java, Redis, Memcached, Traefik, Haproxy, etc).  CI/CD: Jenkins, Gitlab  Scripting: Bash.  Some casual PHP programming and SQL queries.  ITIL methodology.",
     "highlights": [
       "Started as a Cloud Operations level 1, and promoted to Cloud Operations level 2",
-	  "Certifications:\n- AWS Certified SysOps Administrator - Associate\n- AWS Certified Cloud Practitioner\n- ITIL Foundation v4"
+	  "Certifications:  - AWS Certified SysOps Administrator - Associate  - AWS Certified Cloud Practitioner  - ITIL Foundation v4"
     ]
   },{
     "company": "Hmobile",
@@ -35,7 +35,7 @@
     "website": "https://www.hmobile.es",
     "startDate": "2018-06-18",
     "endDate": "2019-02-01",
-    "summary": "Operations and Helpdesk level 2 (Zendesk): incident analysis (configurations, logs), troubleshooting.\nLevel expert with main softwares.\nProduct implementation: customer infrastructure analysis, drivers configuration.\nOperation tasks: new features, integrations with third parties\nSystems: needs analysis, infrastructure improvement.\nMaintenance and monitoring.\nScripting: Batch, Powershell, Google Apps Script, SQL.\nTesting new versions.",
+    "summary": "Operations and Helpdesk level 2 (Zendesk): incident analysis (configurations, logs), troubleshooting.  Level expert with main softwares.  Product implementation: customer infrastructure analysis, drivers configuration.  Operation tasks: new features, integrations with third parties  Systems: needs analysis, infrastructure improvement.  Maintenance and monitoring.  Scripting: Batch, Powershell, Google Apps Script, SQL.  Testing new versions.",
     "highlights": [
       "Started as a Helpdesk level 1, and promoted to Operations and Helpdesk level 2"
     ]
@@ -55,8 +55,8 @@
     "institution": "Production of Audivisual Projects and Shows",
     "area": "Foundation Degree",
     "studyType": "Juniper Serra (Palma de Mallorca)",
-    "startDate": "2016-10-01",
-    "endDate": "2018-06-20",
+    "startDate": "2010-10-01",
+    "endDate": "2012-06-20",
     "gpa": "8.29"
   }],
   "awards": [{
@@ -89,7 +89,7 @@
     "fluency": "Good speaking and reading"
   }],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Videogames",
     "keywords": [
       "Ferrets",
       "Unicorns"
