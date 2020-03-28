@@ -89,10 +89,17 @@
     "fluency": "Good speaking and reading"
   }],
   "interests": [{
-    "name": "Videogames",
+    "name": "Programming",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Bash",
+      "Python"
+    ]
+  },{
+    "name": "Games",
+    "keywords": [
+      "Videogames",
+      "Boardgames",
+	  "test"
     ]
   }]
 }
